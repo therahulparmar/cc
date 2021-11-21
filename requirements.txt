@@ -8,3 +8,4 @@ Werkzeug==2.0.2
 numpy>=1.9.2
 WSGIserver==1.3
 psycopg2==2.9.1
+torchvision==0.11.1
